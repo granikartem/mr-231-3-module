@@ -44,6 +44,12 @@
             <artifactId>jboss-ejb-api_3.2_spec</artifactId>
             <version>1.0.0.Final</version>
         </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.8.1</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
 
