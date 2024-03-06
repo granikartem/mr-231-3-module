@@ -14,7 +14,7 @@ import java.nio.charset.Charset;
 
 public class Mr231_3StationType {
 
-    private static final String STATION_TYPE = "Ã–-231-3";
+    private static final String STATION_TYPE = "–ú–†-231-3";
     private static final String CODEC_NAME = "mr231-3";
 
     /**
